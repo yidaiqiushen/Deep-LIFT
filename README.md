@@ -16,7 +16,7 @@ checkpoint/voc
 ## Testing
 you can simply test the pretrain model in the following way:
 
-       python3 voc_gcn.py data/voc -e --resume checkpoint/voc2007/model_best.pth.tar
+       python3 voc_gcn.py data/voc -e --resume checkpoint/voc2007/voc_model_best.pth.tar
 
 ## Training
 you can adjust some hyperparameters and train the model in the following way:
