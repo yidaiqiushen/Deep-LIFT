@@ -8,7 +8,7 @@ A Pytorch implementation of the paper "Deep-LIFT: Deep Label Specific Feature Le
 - torchnet  
 - numpy
 
-## Download pretrain models
+## Download pre-trained models
 checkpoint/coco
 
 checkpoint/voc
