@@ -9,9 +9,9 @@ A Pytorch implementation of the paper "Deep-LIFT: Deep Label Specific Feature Le
 - numpy
 
 ## Download pre-trained models
-checkpoint/coco   ["Baiduyun"](https://pan.baidu.com/s/1q2ED8HonJMyjEDqsjdl8Bg)   password:ckn2
+checkpoint/coco   [Baiduyun](https://pan.baidu.com/s/1q2ED8HonJMyjEDqsjdl8Bg)   password:ckn2
 
-checkpoint/voc    ["Baiduyun"](https://pan.baidu.com/s/1q2ED8HonJMyjEDqsjdl8Bg)   password:ckn2
+checkpoint/voc    [Baiduyun](https://pan.baidu.com/s/1q2ED8HonJMyjEDqsjdl8Bg)   password:ckn2
 
 ## Testing
 you can simply test the pretrain model in the following way:
